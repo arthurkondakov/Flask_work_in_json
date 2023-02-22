@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Artur",
+    "picture": "https://picsum.photos/id/1",
+    "position": "Go hазработчик",
+    "gender": "male",
+    "age": 28,
+    "skills": "go, python"
+  },
+  {
+    "id": 2,
+    "name": "Masha",
+    "picture": "https://picsum.photos/209",
+    "position": "JS hазработчик",
+    "gender": "female",
+    "age": 20,
+    "skills": "JS, react"
+  },
+  {
+    "id": 3,
+    "name": "Nikita",
+    "picture": "https://picsum.photos/208",
+    "position": "Backend разработчик",
+    "gender": "male",
+    "age": 30,
+    "skills": "js, java"
+  }
+]
