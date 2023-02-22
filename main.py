@@ -32,12 +32,3 @@ def skills(skill):
      str_skills += "</pre>"
      return str_skills
 
-
-@app.route('/profile/<uid>')
-def page_profile(uid):
-     return f"Profile page {uid}"
-
-
-@app.route('/feed/')
-def page_feed():
-     return "Лента пользователя"
